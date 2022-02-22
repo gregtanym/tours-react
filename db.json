@@ -1,0 +1,25 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Paris",
+      "info": "Paris is the captial of France",
+      "image": "image 1",
+      "price": "4,000"
+    },
+    {
+      "id": 2,
+      "name": "California",
+      "info": "California is in Los Angeles of the USA",
+      "image": "image 2",
+      "price": "4,500"
+    },
+    {
+      "id": 3,
+      "name": "Tokyo",
+      "info": "Tokyo is the captial of Japan",
+      "image": "image 3",
+      "price": "3,000"
+    }
+  ]
+}
